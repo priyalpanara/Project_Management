@@ -30,8 +30,8 @@ function ProductList({ products, onEditProduct, onDeleteProduct, selectedProduct
         <thead>
           <tr className="header-row"> 
             <th>Select</th>
-            <th>Category</th>
             <th>Product Name</th>
+            <th>Category</th>
             <th>Description</th>
             <th>Price</th>
             <th>Discount</th>
